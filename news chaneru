@@ -52,4 +52,45 @@ https://tv03.zas.media:1936/rftv/rftv/chunklist_w555412544.m3u8
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1,band
 https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s2/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiIwNTQyODU3My00OThmLTQ0MWMtYjgwNC04MzQ3NjRlOWZjN2EiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc0NTY2MTIzMSwiaWF0IjoxNzQ1NjYxMjMxLCJleHAiOjE3NDU3NDc2MzEsImp0aSI6IjA1NDI4NTczLTQ5OGYtNDQxYy1iODA0LTgzNDc2NGU5ZmM3YSIsImlzcyI6IlNwYWxsYSJ9.KYc3x-NE4rOTEgse48Pn3WyKOtAYhkkWnGxzU2Sf5LQ&uid=05428573-498f-441c-b804-834764e9fc7a
-#EXTINF:-1,A&E HD
+
+
+
+
+
+#EXTINF:-1 tvg-name="Gospel Cartoon" tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="RELIGIOSO",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gospel Movie TV" tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="RELIGIOSO",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gospel Music" tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="RELIGIOSO",Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-name="IMPD TV" tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="RELIGIOSO",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="IURD TV" tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="RELIGIOSO",IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Novo Tempo" tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="RELIGIOSO",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rede Gospel" tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="RELIGIOSO",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rede Século 21" tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png" group-title="RELIGIOSO",Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rede Vida" tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="RELIGIOSO",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Aparecida" tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title="RELIGIOSO",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Evangelizar" tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="RELIGIOSO",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Pai Eterno" tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="RELIGIOSO",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+
