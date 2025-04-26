@@ -17,10 +17,13 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:-1 tvg-name="Record MG" tvg-logo="https://i.imgur.com/BKNkpX0.png" group-title="CANAIS ABERTO",Record MG
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8
 
-#EXTINF:-1,rede canais
+
+#EXTINF:-1 tvg-name="Rede brasil" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:RBTV23.png" group-title="CANAIS ABERTO",Rede brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1747224691.m3u8
-#EXTINF:-1,record news
+
+#EXTINF:-1 tvg-name="Record news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" group-title="CANAIS ABERTO",Record news
 https://stream.ads.ottera.tv/cl/250426d06afsscuv0ihn6ah8q0/1280x720_3071200_0_f.m3u8?i=728_5431
+
 #EXTINF:-1,tv brasil
 https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
 #EXTINF:-1,rit tv
