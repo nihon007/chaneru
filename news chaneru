@@ -17,3 +17,36 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:-1 tvg-name="Record MG" tvg-logo="https://i.imgur.com/BKNkpX0.png" group-title="CANAIS ABERTO",Record MG
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8
 
+#EXTINF:-1,rede canais
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1747224691.m3u8
+#EXTINF:-1,record news
+https://stream.ads.ottera.tv/cl/250426d06afsscuv0ihn6ah8q0/1280x720_3071200_0_f.m3u8?i=728_5431
+#EXTINF:-1,tv brasil
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
+#EXTINF:-1,rit tv
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1,rede tv
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1208315408.m3u8
+#EXTINF:-1,tv cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+#EXTINF:-1,gazeta
+https://live-c.cf.dmcdn.net/sec2(Lsbtw2spdD0d4B1OTD1XDh6SNlyM5zYukTX5nEBecCeQopetKIr7ldjlooDFbe0wI6QOSYERBFZNiYPTRfNoq60ZcHHH3XpXuByrQgsfNhIdxiuR2jHcAZ0ttnmxZB66)/dm/3/x8ttlxm/s/live-1080.m3u8#cell=lcfc
+#EXTINF:-1,rede vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1,Tv aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1,T tati
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w627417745.m3u8
+#EXTINF:-1,sbt interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1,rede cnt
+https://cloudflare.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzJiNTEyNjYyLWE0MGYtNDZlZi1iNTQwLWU4ZWUzZjViYjFmYi8iLCJ1aWQiOiIwMTk2NzE3Yy04NTY2LTc0NTQtYmY4Mi0yYTBkOGIxNGU1YTAiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc0NTY2MDcxMCwiaWF0IjoxNzQ1NjYwNzEwLCJleHAiOjE3NDU3NDcxMTAsImp0aSI6IjAxOTY3MTdjLTg1NjYtNzQ1NC1iZjgyLTJhMGQ4YjE0ZTVhMCIsImlzcyI6IlNwYWxsYSJ9.OAoaK_4e8d8jyR97WyGUhH-PL1kRHT9LfaNZHzGntIk&uid=0196717c-8566-7454-bf82-2a0d8b14e5a0&
+#EXTINF:-1,Tv tati campinas
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w1831242247.m3u8
+#EXTINF:-1,rede familia
+https://tv03.zas.media:1936/rftv/rftv/chunklist_w555412544.m3u8
+#EXTINF:-1,nhk japan
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1,band
+https://hqf6tcxuhk.singularcdn.net.br/live/019498af-1fdf-7df5-86bd-e4a6f588d6a7/s2/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTQ5OGFmLTFmZGYtN2RmNS04NmJkLWU0YTZmNTg4ZDZhNy8iLCJ1aWQiOiIwNTQyODU3My00OThmLTQ0MWMtYjgwNC04MzQ3NjRlOWZjN2EiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc0NTY2MTIzMSwiaWF0IjoxNzQ1NjYxMjMxLCJleHAiOjE3NDU3NDc2MzEsImp0aSI6IjA1NDI4NTczLTQ5OGYtNDQxYy1iODA0LTgzNDc2NGU5ZmM3YSIsImlzcyI6IlNwYWxsYSJ9.KYc3x-NE4rOTEgse48Pn3WyKOtAYhkkWnGxzU2Sf5LQ&uid=05428573-498f-441c-b804-834764e9fc7a
+#EXTINF:-1,A&E HD
